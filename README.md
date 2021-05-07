@@ -5,6 +5,5 @@
   ### Connect with me: (https://instagram.com/brandaoriosti
 
   ### Languages and Tools:
-
-### Languages and Tools:
-html5 css3 git javascript php react native
+  
+  https://www.w3schools.com/css/ 
